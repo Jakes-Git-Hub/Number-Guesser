@@ -6,13 +6,12 @@
       "esModuleInterop": true,
       "forceConsistentCasingInFileNames": true,
       "skipLibCheck": true,
-      "outDir": "./dist",
       "rootDir": "./",
       "resolveJsonModule": true,
       "noImplicitAny": true,
       "moduleResolution": "node",
       "allowSyntheticDefaultImports": true,
-      "sourceMap": true
+    //   "sourceMap": true
     },
     "include": [
       "*.ts"

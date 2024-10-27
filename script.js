@@ -52,4 +52,3 @@ function playGame(humanGuess, computerGuess, targetNumber) {
         console.log(`Current round: ${currentRoundNumber}`);
     }
 }
-//# sourceMappingURL=script.js.map
